@@ -21,4 +21,4 @@ classifiers on the UCI Heart Disease dataset (920 samples, 10 features).
 - `som.pdf` — detailed project report (Serbian)
 
 ## Requirements
-numpy, pandas, matplotlib, seaborn, scikit-learn, keras
+tensorflow, numpy, pandas, matplotlib, seaborn, scikit-learn
