@@ -18,7 +18,7 @@ classifiers on the UCI Heart Disease dataset (920 samples, 10 features).
 
 ## Files
 - `som.ipynb` - full implementation notebook
-- `som.pdf` - detailed project report (serbian)
+- `som.pdf` - detailed project report (Serbian)
 
 ## Requirements
 tensorflow, numpy, pandas, matplotlib, seaborn, scikit-learn
